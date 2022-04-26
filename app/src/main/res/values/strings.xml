@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetWebPage_18110161</string>
+    <string-array name="http_array">
+        <item name="http">http://</item>
+        <item name="https">https://</item>
+    </string-array>
+</resources>
